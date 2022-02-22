@@ -1,5 +1,6 @@
 # The-origin-of-bursts-and-heavy-tails-in-human-dynamics
-复现The origin of bursts and heavy tails in human dynamics的实验过程，看是否出现等待时间的幂律分布。
+目的：
+复现The origin of bursts and heavy tails in human dynamics的实验过程，看是否出现等待时间的幂律分布，拟合幂律指数。
 
 
 可以改变的参数：
